@@ -40,7 +40,7 @@ This project is strictly organized using **Clean Architecture** to ensure separa
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/yourusername/todo-app.git](https://github.com/tannuup123/todo-app.git)
+    git clone https://github.com/tannuup123/todo-app.git
     ```
 2.  Navigate to the project directory:
     ```bash
