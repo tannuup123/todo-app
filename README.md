@@ -59,5 +59,3 @@ This project is strictly organized using **Clean Architecture** to ensure separa
     flutter run
     ```
 
-## 📸 Demo
-
