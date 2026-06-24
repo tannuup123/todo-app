@@ -18,7 +18,6 @@ A production-ready, offline-first ToDo application built to demonstrate clean ar
 ## 🌟 Bonus Features Implemented
 * 🌓 **Dark Mode**: Seamless system-aware and manual theme toggling.
 * 🔄 **Recurring Tasks**: Architecture support for tasks that repeat on a schedule.
-* 🧪 **Unit Testing**: Comprehensive test coverage across core business logic and state management layers.
 
 ## 🏗️ Technical Architecture
 This project is strictly organized using **Clean Architecture** to ensure separation of concerns, scalability, and high testability:
@@ -61,4 +60,4 @@ This project is strictly organized using **Clean Architecture** to ensure separa
     ```
 
 ## 📸 Demo
-*(Insert screenshots or a link to a demo video here prior to submission)*
+
